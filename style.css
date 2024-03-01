@@ -1,0 +1,38 @@
+
+#content{
+    background-image: url(Pic/imageb.webp);
+    width: 1390px;
+    height: 1000px;
+    text-emphasis-color: white;
+    
+}
+#mypic{
+    display: flex;
+}
+#container{
+    border-radius:1px solid black ;
+    padding: 12%;
+    background-color: grey;
+}
+.nav{
+    background-color: black;
+}
+#items{
+    float: left;
+}
+
+#Design{
+display: flex;
+
+}
+#style{
+    display: flex;
+}
+#footer{
+    display: flex;
+    background-color: gray;
+    border-radius: 2px black;
+}
+#design2{
+    display: flex;
+}
